@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/#E4405F?style=plastic&logo=instagram&logoColor=#FFFFFF"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jody816&show_icons=true&theme=buefy)
