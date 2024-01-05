@@ -1,4 +1,7 @@
 ### Hi there 👋
+![header](https://capsule-render.vercel.app/api?
+type=waving&color=timeGradient&text=Welcome%20to%20jody816's%20GitHub%20👋
+&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 
 <!--
 **jody816/jody816** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jody816&show_icons=true&theme=gruvbox_light)
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=#E4405F"/></a>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jody816&show_icons=true&theme=buefy)
