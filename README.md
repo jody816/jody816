@@ -1,3 +1,9 @@
+<!--
+header, footer
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=footer&text=capsule%20render&fontSize=90" />
+-->
 ### Hi there 👋
 
 <!--
@@ -24,5 +30,9 @@ language & stack
 <div>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+</div>
+
+<div>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 </div>
 
