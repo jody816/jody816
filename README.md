@@ -1,10 +1,10 @@
 <!--
 header, footer
--->
+
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=footer&text=capsule%20render&fontSize=90" />
-
+-->
 ### Hi there 👋
 
 <!--
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://www.instagram.com/jody816/" target="_blank"><img src="https://img.shields.io/badge/jody816-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="#" onmouseover="return false;" onclick="window.location.href='mailto:jody816@naver.com';">
+<a href="javascript:void(0);" onclick="window.location.href='mailto:jody816@naver.com';">
     <img src="https://img.shields.io/badge/Mail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:ojh9816@gmail.com"/>
 </a>
 
