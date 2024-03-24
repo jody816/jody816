@@ -1,13 +1,21 @@
-# 👋 개발자를 꿈꾸는 '오재현'입니다!
+# 👋 안녕하세요! 개발자를 준비하는 '오재현'입니다😄
 
 <br />
 
-#### 📝 저의 README.md를 채워나가기 위해 교육을 받고 있습니다.
-> 신한투자증권 프로 디지털 아카데미 4기 (24.03.20 ~ )
+### 💡 Introduce
+- **어떤 개발자가 되고 싶은지**에 대해 계속 고민해보고 있습니다!
+- **자바**를 주 언어로 공부해왔으며, **개발 경험**은 아쉽게도 **미숙**한 수준입니다!
+- **부족한 역량**과 현재 가지고 있는 **고민**을 **해소**하기 위해 **교육**을 받고 있는 중입니다!
 
 <br />
 
-#### 🔨 자주 사용하는 언어
+### 💻 Education
+- 신한투자증권 프로디지털 아카데미 4기 (2024.03 ~ )
+- 용인대학교 컴퓨터과학과 (2018.03 ~ 2024.08 예정)
+
+<br />
+
+### 🔨 Teck Stack
 <div>
         <span>
                 <img src="https://img.shields.io/badge/java-007396?style=flat&logo=OpenJDK&logoColor=white">
@@ -18,29 +26,41 @@
 
 <br />
 
-#### 📚 자격증
-> SQLD (23.12.15)  
-> 리눅스 마스터 2급 (22.04.01)
+### 📚 Certificate
+- SQLD (23.12.15)  
+- 리눅스 마스터 2급 (22.04.01)
+
+※ '정보처리기사' 실기 준비중입니다!
 
 <br />
 
-#### ✨ 스탯
+### ✨ Stats
+- 백준 티어는 티어에 걸맞는 실력이 되고자 개재하였습니다!
 <div>
-        <img src="https://github-readme-stats.vercel.app/api?username=jody816" style="height: 150px"/>
-        
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jody816&layout=compact"style="height: 150px"/>
+        <span>
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jody816&layout=compact" style="height: 170px"/>
+                <a href="https://solved.ac/jody816/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jody816" alt="Solved.ac Profile">
+</a>
+        </span>
 </div>
 
+<br />
 
-<h3>📬 Contact</h3>
+### 📬 Contact
 <div>
 <span>
-<a href="javascript:void(0);" onclick="window.location.href='mailto:https://velog.io/@jody816/posts';">
+<a href="javascript:void(0);" onclick="window.location.href='https://velog.io/@jody816/posts';">
     <img src="https://img.shields.io/badge/Velog-20C997?style=plastic&logo=velog&logoColor=white"/>
 </a>
 
 <a href="javascript:void(0);" onclick="window.location.href='mailto:ojh9816@gmail.com';">
     <img src="https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white"/>
 </a>
+
+<a href="javascript:void(0);" onclick="window.location.href='https://www.instagram.com/j.hyeo_0n/';">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white"/>
+
 </span>
 </div>
+필요하시다면 편하게 연락 주세요!😆
