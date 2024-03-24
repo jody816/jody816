@@ -46,20 +46,13 @@
 <br />
 
 ### 📬 Contact
-<div>
-<span>
-<a href="javascript:void(0);" onclick="window.location.href='https://velog.io/@jody816/posts';">
-    <img src="https://img.shields.io/badge/Velog-20C997?style=plastic&logo=velog&logoColor=white"/>
-</a>
-
-<a href="javascript:void(0);" onclick="window.location.href='mailto:ojh9816@gmail.com';">
-    <img src="https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="javascript:void(0);" onclick="window.location.href='https://www.instagram.com/j.hyeo_0n/';">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white"/>
-
-</span>
+<div>        
+        <a href="javascript:void(0);" onclick="window.location.href='mailto:ojh9816@gmail.com';">
+            <img src="https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white"/>
+        </a>
+        <a href="javascript:void(0);" onclick="window.location.href='https://www.instagram.com/j.hyeo_0n/';">
+            <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white"/>
+        </a>
 </div>
 
 필요하시다면 편하게 연락 주세요!🙏
