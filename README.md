@@ -4,7 +4,7 @@
 
 ### 💡 Introduce
 - **어떤 개발자가 되고 싶은지**에 대해 계속 고민해보고 있습니다!
-- **자바**를 주 언어로 공부해왔으며, **개발 경험**은 아쉽게도 **미숙**한 수준입니다!
+- **자바**를 주 언어로 공부해왔으며, **개발 경험**은 아직 **미숙**한 수준입니다!
 - **부족한 역량**과 현재 가지고 있는 **고민**을 **해소**하기 위해 **교육**을 받고 있는 중입니다!
 
 <br />
@@ -30,19 +30,17 @@
 - SQLD (23.12.15)  
 - 리눅스 마스터 2급 (22.04.01)
 
-※ '정보처리기사' 실기 준비중입니다!
+※ '정보처리기사' 실기 준비중
 
 <br />
 
 ### ✨ Stats
-- 백준 티어는 티어에 걸맞는 실력이 되고자 개재하였습니다!
 <div>
-        <span>
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jody816&layout=compact" style="height: 170px"/>
-                <a href="https://solved.ac/jody816/">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jody816" alt="Solved.ac Profile">
-</a>
-        </span>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jody816&layout=compact" style="height: 190px">
+    <img src="https://github-readme-stats.vercel.app/api?username=jody816&show_icons=true" alt="Anurag's GitHub stats" style="height: 190px"><br />
+    <a href="https://solved.ac/jody816/">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jody816" alt="Solved.ac Profile" style="height: 198px">
+    </a>
 </div>
 
 <br />
@@ -63,4 +61,5 @@
 
 </span>
 </div>
-필요하시다면 편하게 연락 주세요!😆
+
+필요하시다면 편하게 연락 주세요!🙏
