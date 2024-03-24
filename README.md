@@ -36,10 +36,10 @@
 
 ### ✨ Stats
 <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jody816&layout=compact" style="height: 190px">
-    <img src="https://github-readme-stats.vercel.app/api?username=jody816&show_icons=true" alt="Anurag's GitHub stats" style="height: 190px"><br />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jody816&layout=compact" style="height: 150px">
+    <img src="https://github-readme-stats.vercel.app/api?username=jody816&show_icons=true" alt="Anurag's GitHub stats" style="height: 150px"><br />
     <a href="https://solved.ac/jody816/">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jody816" alt="Solved.ac Profile" style="height: 198px">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jody816" alt="Solved.ac Profile" style="height: 156px">
     </a>
 </div>
 
