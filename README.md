@@ -53,8 +53,8 @@
         <a href="javascript:void(0);" onclick="window.location.href='mailto:ojh9816@gmail.com';">
             <img src="https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white"/>
         </a>
-        <a href="javascript:void(0);" onclick="window.location.href='https://www.instagram.com/j.hyeo_0n/';">
-            <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white"/>
+        <a href="https://www.instagram.com/j.hyeo_0n/" target="_blank">
+            <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white" />
         </a>
 </div>
 
