@@ -4,17 +4,16 @@
 
 ### 💡 Introduce
 - **어떤 개발자가 되고 싶은지**에 대해 계속 고민해보고 있습니다!
-- **자바**를 주 언어로 공부해왔으며, **개발 경험**은 아직 **미숙**한 수준입니다!
-- **부족한 역량**과 현재 가지고 있는 **고민**을 **해소**하기 위해 **교육**을 받고 있는 중입니다!
+- **자바**를 주 언어로 공부해왔습니다!
 
 <br />
 
 ### 💻 Education
 
-| 기간                | 내용                                           |
-|---------------------|:------------------------------------------------:|
-|2024.03 ~ (현재) | 신한투자증권 프로디지털 아카데미 4기 |
-|2018.03 ~ 2024.08 (졸업예정) | 용인대학교 컴퓨터과학과 |
+| 기간                | 내용                                  |
+|---------------------|:------------------------------------:|
+|2024.03 ~ 2024.09 | 신한투자증권 프로디지털 아카데미 4기 |
+|2018.03 ~ 2024.08 | 용인대학교 컴퓨터과학과 |
 
 <br />
 
@@ -24,6 +23,9 @@
                 <img src="https://img.shields.io/badge/java-007396?style=flat&logo=OpenJDK&logoColor=white">
                 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white">
                 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
+                <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white">
+                <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white">
+                <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
         </span>
 </div>
 
@@ -55,6 +57,9 @@
         </a>
         <a href="https://www.instagram.com/j.hyeo_0n/" target="_blank">
             <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white" />
+        </a>
+        <a href="https://velog.io/@jody816" target="_blank">
+            <img src="https://img.shields.io/badge/velog-20C997?style=plastic&logo=velog&logoColor=white" />
         </a>
 </div>
 
