@@ -1,7 +1,3 @@
-# 안 되면 될 때까지!
-
-<br />
-
 ### 💡 Introduce
 <!-- - **어떤 개발자가 되고 싶은지**에 대해 계속 고민해보고 있습니다!--> 
 - **자바**를 주 언어로 공부해왔습니다!
@@ -34,47 +30,9 @@
 <br />
 
 ### 📚 Certificate
-- SQLD (23.12.15)  
-- 리눅스 마스터 2급 (22.04.01)
-- 정보처리기사 될 때까지!
-
-<br />
-
-### 💡 Introduce
-<!-- - **어떤 개발자가 되고 싶은지**에 대해 계속 고민해보고 있습니다!--> 
-- **자바**를 주 언어로 공부해왔습니다!
-- **스프링 부트 프레임워크**로 RESTful 방식의 개발 경험이 있습니다!
-- 개발하는 것이 즐거우며, 현재는 더욱 성장하기 위해 구직 활동 중입니다!
-
-<br />
-
-### 💻 Education
-
-| 기간                | 내용                                  |
-|---------------------|:------------------------------------:|
-|2024.03 ~ 2024.09 | 신한투자증권 프로디지털 아카데미 4기 |
-|2018.03 ~ 2024.08 | 용인대학교 컴퓨터과학과 |
-
-<br />
-
-### 🔨 Teck Stack
-<div>
-        <span>
-                <img src="https://img.shields.io/badge/java-007396?style=flat&logo=OpenJDK&logoColor=white">
-                <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white">
-                <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
-                <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white">
-                <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white">
-                <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
-        </span>
-</div>
-
-<br />
-
-### 📚 Certificate
-- SQLD (23.12.15)  
-- 리눅스 마스터 2급 (22.04.01)
 - 정보처리기사 (24.12.11)
+- SQLD (23.12.15)  
+- 리눅스 마스터 2급 (22.04.01)
 
 <br />
 
